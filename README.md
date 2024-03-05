@@ -2,9 +2,9 @@
 
 ##============================ ATM ============================
 
-1.Variable
-2.Scanf Function
-3.If/Else if/Else
-4.Functions
-5.Loops
-6.Operators
+1.Variable\n
+2.Scanf Function\n
+3.If/Else if/Else\n
+4.Functions\n
+5.Loops\n
+6.Operators\n
